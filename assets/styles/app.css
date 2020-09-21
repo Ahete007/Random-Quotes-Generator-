@@ -1,0 +1,40 @@
+body{
+
+    background-color:darkcyan;
+}
+
+#heading{
+
+    font-style: oblique;
+    display: flex;
+    justify-content: center;
+    margin-left: 60px;
+   margin-top: 30px;
+    
+}
+#quotes{
+
+    margin-left: 45%;
+    margin-top: 50px;
+    
+    
+}
+.inner{
+    background-color:lightblue;
+    border: 0px solid green;
+    border-style:groove;
+    padding:90px; /*--100*/
+    margin-left: 30%;
+    margin-top: 50px;
+    margin-bottom:20px;
+    width:40%;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight:600;
+    font-size: 20px;
+    color:saddlebrown;
+}
+
+#authorName{
+    text-align:right;
+    color: lightseagreen;
+}
